@@ -1,3 +1,4 @@
+// 10118374 Leonardo DY Korompis IF9
 package com.example.tugas1_10118374;
 
 import androidx.appcompat.app.AppCompatActivity;
